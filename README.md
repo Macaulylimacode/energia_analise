@@ -6,7 +6,9 @@
 
 energia_analise, 
 Previsão de séries temporais: modelos de aprendizado de máquina podem ser treinados nos registros de produção por hora para prever os níveis futuros de produção de energia eólica e solar. Essas previsões são cruciais para operadores de rede, comerciantes de energia e formuladores de políticas planejarem e otimizarem a distribuição e utilização de energia com eficiência. Ao empregar algoritmos de aprendizado de máquina, anomalias nos padrões de produção de energia podem ser detectadas. Podem indicar mau funcionamento do equipamento, problemas relacionados ao clima ou outras irregularidades que requerem atenção.
-
+```bash
+Com essa análise podemos informar que a energia eólica teve uma produção um pouco maior que a solar durante o ano.
+```
 ### Análise de sinal de preço:
 
 Pode analisar os sinais de preço de mercado e seu impacto nos produtores de energia renovável. Essa análise pode ajudar as partes interessadas a tomar decisões informadas sobre estratégias de venda de energia e otimização de lucros. Otimização da produção de energia renovável, pode otimizar a operação de instalações de energia renovável, considerando fatores como previsões do tempo, preços de mercado e custos de produção. Isso ajudará a determinar os momentos mais favoráveis ​​para a produção de energia.
